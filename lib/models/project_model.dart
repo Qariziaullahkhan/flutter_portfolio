@@ -11,7 +11,7 @@ List<Project> projectList = [
     'Hostels finders Application',
     'Hostels Finder application for Flutter offers a seamless way for travelers to locate and book hostels. Built with Flutter, it ensures a smooth and responsive user experience on both mobile  platforms. Users can search for hostels by location, price, and amenities, with detailed descriptions and user reviews. High-quality photos and secure booking options enhance the decision-making process. The app features real-time availability updates and personalized recommendations. Integrated maps and directions assist in finding the hostels easily. Users can save their favorite hostels for future bookings. The app leverages Flutter’s cross-platform capabilities for a consistent and efficient user experience. Perfect for backpackers and travelers, the Hostels Finder app is your ultimate tool for convenient hostel bookings..',
     'assets/images/hostels.png',
-    'https://github.com/Qariziaullahkhan/Hostels-Finding-App',
+    'https://github.com/Qariziaullahkhan/Hostels-Finders-App.git',
   ),
   
   Project(
