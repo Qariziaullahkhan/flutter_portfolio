@@ -15,7 +15,7 @@ class SocialMediaIconList extends StatelessWidget {
           RotatedBox(
             quarterTurns: -3,
             child: Text('Follow Me',style: Theme.of(context).textTheme.titleSmall!.copyWith(
-              color: Colors.green,
+              color: Colors.white,
               fontWeight: FontWeight.w700
             ),),
           ),
